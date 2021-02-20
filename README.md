@@ -562,7 +562,7 @@ In this research project, I studied two of the most common clustering algorithms
 
 ## :mailbox_with_mail: Want to collaborate? Let's get in touch!
 
-<a href="TODO: Add link to resume">
+<a href="https://github.com/rey-allan/rey-allan/raw/main/docs/resume.pdf">
   <img src="https://img.shields.io/badge/resume-%23EC1C24.svg?&style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
 </a>
 
