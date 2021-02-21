@@ -1,12 +1,12 @@
 Hola :wave:
 
-I am Software Engineer from Mexico :mexico: based in Seattle, WA. I have a B.S. in Computer Science by Tecnologico de Monterrey, and a M.S. in Computer Science with a Specialization in Machine Learning by Georgia Institute of Technology. I'm interested in Artificial Intelligence, particularly Reinforcement Learning, and Robotics.
+I am Software Engineer from Mexico :mexico: based in Seattle, WA. I have a B.S. in Computer Science by Tecnologico de Monterrey, and a M.S. in Computer Science with a Specialization in Machine Learning by Georgia Institute of Technology. I'm interested in Artificial Intelligence, especially Reinforcement Learning, and Robotics. I'm particularly interested in how AI can adopt complex social behaviors that adhere to human preferences, and how these agents can be deployed to improve our lives. I envision a world where humans and intelligent agents (embodied, i.e. robots, and non-embodied) cooperate to solve the world's most pressing problems.
 
 ## :computer: Projects
 
 ### Deep Learning Mini Projects
 
-These are mini applications of various Deep Learning algorithms implemented in PyTorch:
+These are mini applications of various Deep Learning algorithms implemented in PyTorch. The inspiration for these applications comes from assignments of Coursera's Deep Learning Specialization that were originally developed using Tensorflow. I decided to re-implement them from scratch using PyTorch to improve my knowledge of the framework. Below is a list of these mini applications:
 
 - Feed Forward
   - Cat vs Non-cat Classification
@@ -69,7 +69,7 @@ This is my attempt at solving [comma.ai](https://comma.ai/)'s speed prediction c
 
 ### Smash GAN
 
-In this project, I implemented Deep Convolutional Generative Adversarial Networks (DCGAN) to generate new characters from the [Super Smash Bros. Ultimate](https://www.smashbros.com/en_US/) Nintendo game. Although the results are not particularly impressive, the model was able to learn some of the fundamental elements that form the characters: legs, arms and weapon-like silhouettes, and fighting poses.
+In this project, I implemented Deep Convolutional Generative Adversarial Networks (DCGAN) to generate new characters from the [Super Smash Bros. Ultimate](https://www.smashbros.com/en_US/) Nintendo game. Although the results weren't exactly as I expected, the model was able to learn some of the fundamental elements that form the characters: legs, arms and weapon-like silhouettes, and fighting poses.
 
 <p align="center">
   <img src="img/smash-gan.png" width="80%" />
@@ -354,7 +354,7 @@ In this research project, I studied two of the most common clustering algorithms
 
 ## :mailbox_with_mail: Want to collaborate? Let's get in touch!
 
-<a href="https://github.com/rey-allan/rey-allan/raw/main/docs/resume.pdf">
+<a href="https://drive.google.com/file/d/14c4OfQg08inF8iPIzytW3n-3sIs0HZ6B/view?usp=sharing">
   <img src="https://img.shields.io/badge/resume-%23EC1C24.svg?&style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
 </a>
 
