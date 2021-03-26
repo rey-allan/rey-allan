@@ -37,12 +37,9 @@ These are mini applications of various Deep Learning algorithms implemented in P
 ![](https://img.shields.io/badge/Jupyter%20Notebook-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li><a href="https://github.com/rey-allan/deep-learning-mini-projects" title="Source code">Code</a></li>
-  </ul>
-</details>
+#### Learn More
+
+- [Code](https://github.com/rey-allan/deep-learning-mini-projects)
 
 ### CommaAI Speed Challenge
 
@@ -59,13 +56,10 @@ This is my attempt at solving [comma.ai](https://comma.ai/)'s speed prediction c
 ![](https://img.shields.io/badge/Jupyter%20Notebook-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li><a href="https://github.com/rey-allan/commaai-speed-challenge" title="Source code">Code</a></li>
-    <li><a href="https://drive.google.com/file/d/1rFCEzdO_OH_xdq8la1p4WZpbU-bF-uKv/view?usp=sharing" title="Training video">Training video</a></li>
-  </ul>
-</details>
+#### Learn More
+
+- [Code](https://github.com/rey-allan/commaai-speed-challenge)
+- [Training video with predictions](https://drive.google.com/file/d/1rFCEzdO_OH_xdq8la1p4WZpbU-bF-uKv/view?usp=sharing)
 
 ### Smash GAN
 
@@ -82,12 +76,9 @@ In this project, I implemented Deep Convolutional Generative Adversarial Network
 ![](https://img.shields.io/badge/Jupyter%20Notebook-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li><a href="https://github.com/rey-allan/smash-gan" title="Source code">Code</a></li>
-  </ul>
-</details>
+#### Learn More
+
+- [Code](https://github.com/rey-allan/smash-gan)
 
 ### Solving the Lunar Lander Problem using Deep Reinforcement Learning
 
@@ -103,14 +94,11 @@ In this project, I solved OpenAI's [Lunar Lander](https://gym.openai.com/envs/Lu
 ![](https://img.shields.io/badge/Tensorflow%20Keras-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li>Code available on request only</li>
-    <li><a href="https://drive.google.com/file/d/17b1jgs4LEGsztsRN8qJDjRJNhRFh-2wG/view?usp=sharing" title="Paper">Paper</a></li>
-    <li><a href="https://youtu.be/fX3W_SKnuMM" title="Video presentation">Video presentation</a></li>
-  </ul>
-</details>
+#### Learn More
+
+- Code available on request only
+- [Paper](https://drive.google.com/file/d/17b1jgs4LEGsztsRN8qJDjRJNhRFh-2wG/view?usp=sharing)
+- [Video presentation](https://youtu.be/fX3W_SKnuMM)
 
 ### Correlated Q-Learning
 
@@ -124,14 +112,11 @@ In this project, I implemented three Multi-Agent Reinforcement Learning algorith
 ![](https://img.shields.io/badge/Multi%20Agent%20Reinforcement%20Learning-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li>Code available on request only</li>
-    <li><a href="https://drive.google.com/file/d/1vqF4m2INpg9K7fTf0lv0ZzXBhDc7UouN/view?usp=sharing" title="Paper">Paper</a></li>
-    <li><a href="https://youtu.be/l-FL23atD0Y" title="Video presentation">Video presentation</a></li>
-  </ul>
-</details>
+#### Learn More
+
+- Code available on request only
+- [Paper](https://drive.google.com/file/d/1vqF4m2INpg9K7fTf0lv0ZzXBhDc7UouN/view?usp=sharing)
+- [Video presentation](https://youtu.be/l-FL23atD0Y)
 
 ### Temporal Difference Learning: The TD Algorithm
 
@@ -147,14 +132,11 @@ In this project, I reproduced the results presented in Richard S. Sutton's semin
 ![](https://img.shields.io/badge/Reinforcement%20Learning-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li>Code available on request only</li>
-    <li><a href="https://drive.google.com/file/d/1HzSnN9EW0Vs5nyRo3cJ-OVWGmQ8nG--3/view?usp=sharing" title="Paper">Paper</a></li>
-    <li><a href="https://youtu.be/v5W11EkdYYk" title="Video presentation">Video presentation</a></li>
-  </ul>
-</details>
+#### Learn More
+
+- Code available on request only
+- [Paper](https://drive.google.com/file/d/1HzSnN9EW0Vs5nyRo3cJ-OVWGmQ8nG--3/view?usp=sharing)
+- [Video presentation](https://youtu.be/v5W11EkdYYk)
 
 ### Trading using Reinforcement Learning
 
@@ -169,12 +151,9 @@ In this project, I applied Q-Learning to the problem of trading equities in the 
 ![](https://img.shields.io/badge/Reinforcement%20Learning-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li>Code available on request only</li>
-  </ul>
-</details>
+#### Learn More
+
+- Code available on request only
 
 ### Activity Classification using Motion History Images
 
@@ -189,15 +168,12 @@ In this project, I implemented an activity classifier using Random Forests to de
 ![](https://img.shields.io/badge/Activity%20Recognition-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li>Code available on request only</li>
-    <li><a href="https://drive.google.com/file/d/1LCSmjYWJbmnlwVG5vxGcU2rgveq0ftZ0/view?usp=sharing" title="Paper">Paper</a></li>
-    <li><a href="https://youtu.be/9SnzixKRMxM" title="Video presentation">Video presentation</a></li>
-    <li><a href="https://drive.google.com/file/d/1EFPlr3IA4fImDwIlV4Hkck2ddsNhGmvM/view?usp=sharing" title="Multi-activity recognition demo">Multi-activity recognition demo</a></li>
-  </ul>
-</details>
+#### Learn More
+
+- Code available on request only
+- [Paper](https://drive.google.com/file/d/1LCSmjYWJbmnlwVG5vxGcU2rgveq0ftZ0/view?usp=sharing)
+- [Video presentation](https://youtu.be/9SnzixKRMxM)
+- [Multi-activity recognition demo](https://drive.google.com/file/d/1EFPlr3IA4fImDwIlV4Hkck2ddsNhGmvM/view?usp=sharing)
 
 ### Warehouse Robot
 
@@ -215,12 +191,9 @@ In this project, I developed a robot capable of navigating through a simulated 2
 ![](https://img.shields.io/badge/Robotics-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li>Code available on request only</li>
-  </ul>
-</details>
+#### Learn More
+
+- Code available on request only
 
 ### Solving Ravens Progressive Matrices
 
@@ -237,15 +210,12 @@ In this project, I implemented an agent to solve Raven's Progressive Matrices te
 ![](https://img.shields.io/badge/Logical%20Reasoning-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li>Code available on request only</li>
-    <li><a href="https://drive.google.com/file/d/1-il6RI6ULnCQnQxe8j6ng-7hEqOUwylW/view?usp=sharing" title="Paper I">Paper I</a></li>
-    <li><a href="https://drive.google.com/file/d/1C_EOI6snuywt0p148vu580ELDlXSDiir/view?usp=sharing" title="Paper II">Paper II</a></li>
-    <li><a href="https://drive.google.com/file/d/1AYkBr5tamdFS1gS4B9UnmYlKaCEIAyjR/view?usp=sharing" title="Paper III">Paper III</a></li>
-  </ul>
-</details>
+#### Learn More
+
+- Code available on request only
+- [Paper I](https://drive.google.com/file/d/1-il6RI6ULnCQnQxe8j6ng-7hEqOUwylW/view?usp=sharing)
+- [Paper II](https://drive.google.com/file/d/1C_EOI6snuywt0p148vu580ELDlXSDiir/view?usp=sharing)
+- [Paper III](https://drive.google.com/file/d/1AYkBr5tamdFS1gS4B9UnmYlKaCEIAyjR/view?usp=sharing)
 
 ### Effect of Attribute Noise on Binary Classification Models
 
@@ -261,13 +231,10 @@ In this research project, I investigated the effect on the performance of variou
 ![](https://img.shields.io/badge/Supervised%20Learning-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li>Code available on request only</li>
-    <li><a href="https://drive.google.com/file/d/1pj4zJLumNWsVgyn_qQHRLQsdHAUTi3ZX/view?usp=sharing" title="Paper">Paper</a></li>
-  </ul>
-</details>
+#### Learn More
+
+- Code available on request only
+- [Paper](https://drive.google.com/file/d/1pj4zJLumNWsVgyn_qQHRLQsdHAUTi3ZX/view?usp=sharing)
 
 ### Benchmarking Randomized Optimization Algorithms
 
@@ -284,13 +251,10 @@ In this research project, I investigated the performance of four different Rando
 ![](https://img.shields.io/badge/Randomized%20Optimization-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li>Code available on request only</li>
-    <li><a href="https://drive.google.com/file/d/1HABCbab2jdR2WGh8GlNSzPrP19CvtKWQ/view?usp=sharing" title="Paper">Paper</a></li>
-  </ul>
-</details>
+#### Learn More
+
+- Code available on request only
+- [Paper](https://drive.google.com/file/d/1HABCbab2jdR2WGh8GlNSzPrP19CvtKWQ/view?usp=sharing)
 
 ### A Study On Model-Based And Model-Free Reinforcement Learning
 
@@ -305,13 +269,10 @@ In this research project, I investigated the performance of three of the most co
 ![](https://img.shields.io/badge/Reinforcement%20Learning-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li>Code available on request only</li>
-    <li><a href="https://drive.google.com/file/d/1QwnXFRB4A1IfAhefWq3wwgrDTirL-Bt8/view?usp=sharing" title="Paper">Paper</a></li>
-  </ul>
-</details>
+#### Learn More
+
+- Code available on request only
+- [Paper](https://drive.google.com/file/d/1QwnXFRB4A1IfAhefWq3wwgrDTirL-Bt8/view?usp=sharing)
 
 ### A Study On Clustering and Dimensionality Reduction
 
@@ -330,13 +291,10 @@ In this research project, I studied two of the most common clustering algorithms
 ![](https://img.shields.io/badge/Dimensionality%20Reduction-grey)
 ![](https://img.shields.io/badge/Python-grey)
 
-<details>
-  <summary><strong>Learn More</strong></summary>
-  <ul>
-    <li>Code available on request only</li>
-    <li><a href="https://drive.google.com/file/d/1_4DWMhRh7AVmUa-oVL3aiRXt1wjWN2nD/view?usp=sharing" title="Paper">Paper</a></li>
-  </ul>
-</details>
+#### Learn More
+
+- Code available on request only
+- [Paper](https://drive.google.com/file/d/1_4DWMhRh7AVmUa-oVL3aiRXt1wjWN2nD/view?usp=sharing)
 
 ## :toolbox: Languages, Frameworks and Technologies
 
