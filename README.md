@@ -6,6 +6,30 @@ I'm interested in Artificial Intelligence, especially Reinforcement Learning, an
 
 ## :computer: Projects
 
+### Index
+
+- Deep Learning
+  - [Deep Learning Mini Projects](#deep-learning-mini-projects)
+  - [CommaAI Speed Challenge](#commaai-speed-challenge)
+  - [Smash GAN](#smash-gan)
+- Deep Reinforcement Learning
+  - [Solving the Lunar Lander Problem using Deep Reinforcement Learning](#solving-the-lunar-lander-problem-using-deep-reinforcement-learning)
+- Reinforcement Learning
+  - [Correlated Q-Learning](#correlated-q-learning)
+  - [Temporal Difference Learning The TD Algorithm](#temporal-difference-learning-the-td-algorithm)
+  - [Trading using Reinforcement Learning](#trading-using-reinforcement-learning)
+- Computer Vision
+  - [Activity Classification using Motion History Images](#activity-classification-using-motion-history-images)
+- Robotics
+  - [Warehouse Robot](#warehouse-robot)
+- General Machine Learning
+  - [Effect of Attribute Noise on Binary Classification Models](#effect-of-attribute-noise-on-binary-classification-models)
+  - [Benchmarking Randomized Optimization Algorithms](#benchmarking-randomized-optimization-algorithms)
+  - [A Study On Model-Based And Model-Free Reinforcement Learning](#a-study-on-model-based-and-model-free-reinforcement-learning)
+  - [A Study On Clustering and Dimensionality Reduction](#a-study-on-clustering-and-dimensionality-reduction)
+- Knowledge-based AI
+  - [Solving Ravens Progressive Matrices](#solving-ravens-progressive-matrices) 
+
 ### Deep Learning Mini Projects
 
 These are mini applications of various Deep Learning algorithms implemented in PyTorch. The inspiration for these applications comes from assignments of Coursera's Deep Learning Specialization that were originally developed using Tensorflow. I decided to re-implement them from scratch using PyTorch to improve my knowledge of the framework. Below is a list of these mini applications:
@@ -120,7 +144,7 @@ In this project, I implemented three Multi-Agent Reinforcement Learning algorith
 - [Paper](https://drive.google.com/file/d/1vqF4m2INpg9K7fTf0lv0ZzXBhDc7UouN/view?usp=sharing)
 - [Video presentation](https://youtu.be/l-FL23atD0Y)
 
-### Temporal Difference Learning: The TD Algorithm
+### Temporal Difference Learning The TD Algorithm
 
 In this project, I reproduced the results presented in Richard S. Sutton's seminal paper _Learning to Predict by the Methods of Temporal Differences_ (1988). I implemented the TD algorithm against a random walk environment to demonstrate how learning can be achieved by updating weights using the gradients of temporal difference errors.
 
