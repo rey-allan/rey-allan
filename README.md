@@ -15,6 +15,7 @@ I'm interested in Artificial Intelligence, especially Reinforcement Learning, an
 - Deep Reinforcement Learning
   - [Solving the Lunar Lander Problem using Deep Reinforcement Learning](#solving-the-lunar-lander-problem-using-deep-reinforcement-learning)
 - Reinforcement Learning
+  - [Implementations of Reinforcement Learning Algorithms](#implementations-of-reinforcement-learning-algorithms)
   - [Correlated Q-Learning](#correlated-q-learning)
   - [Temporal Difference Learning The TD Algorithm](#temporal-difference-learning-the-td-algorithm)
   - [Trading using Reinforcement Learning](#trading-using-reinforcement-learning)
@@ -28,7 +29,7 @@ I'm interested in Artificial Intelligence, especially Reinforcement Learning, an
   - [A Study On Model-Based And Model-Free Reinforcement Learning](#a-study-on-model-based-and-model-free-reinforcement-learning)
   - [A Study On Clustering and Dimensionality Reduction](#a-study-on-clustering-and-dimensionality-reduction)
 - Knowledge-based AI
-  - [Solving Ravens Progressive Matrices](#solving-ravens-progressive-matrices) 
+  - [Solving Ravens Progressive Matrices](#solving-ravens-progressive-matrices)
 
 ### Deep Learning Mini Projects
 
@@ -125,6 +126,53 @@ In this project, I solved OpenAI's [Lunar Lander](https://gym.openai.com/envs/Lu
 - Code available on request only
 - [Paper](https://drive.google.com/file/d/17b1jgs4LEGsztsRN8qJDjRJNhRFh-2wG/view?usp=sharing)
 - [Video presentation](https://youtu.be/fX3W_SKnuMM)
+
+### Implementations of Reinforcement Learning Algorithms
+
+These are implementations of different Reinforcement Learning algorithms as described in Sutton and Barto's book _Reinforcement Learning: An Introduction, 2nd Edition_. Below is a list of the algorithms implemented:
+
+- Monte Carlo Methods
+  - Monte Carlo with Exploring Starts
+  - On-policy Monte Carlo
+  - Off-policy Monte Carlo with weighted importance sampling
+- Temporal Difference Methods
+  - On-policy Sarsa
+  - Q-learning
+- n-Step Bootstrapping Methods
+  - On-policy n-step Sarsa
+  - Off-policy n-step Sarsa
+  - n-step Tree Backup
+- Planning Methods
+  - Dyna-Q
+  - Prioritized Sweeping
+  - Monte Carlo Tree Search
+- Function Approximation Methods
+  - On-policy Gradient Monte Carlo
+  - Semi-gradient TD(0)
+  - Semi-gradient n-step TD
+  - On-policy semi-gradient Sarsa
+  - On-policy semi-gradient n-step Sarsa
+- Function Approximation with Eligibility Traces Methods
+  - Semi-gradient TD(lambda)
+  - On-policy semi-gradient Sarsa(lambda)
+- Policy Gradient Methods
+  - REINFORCE with Baseline
+  - One-step Actor-Critic
+  - Actor-Critic with Eligibility Traces
+
+The _optimal_ value function was computed by each algorithm against a simplified Blackjack-like game called _Easy21_. The following figure shows these value functions.
+
+<p align="center">
+  <img src="img/rl-value-functions.png" width="100%" />
+</p>
+
+![](https://img.shields.io/badge/Reinforcement%20Learning-grey)
+![](https://img.shields.io/badge/Sutton%20Barto%20Book-grey)
+![](https://img.shields.io/badge/Python-grey)
+
+#### Learn More
+
+- [Code](https://github.com/rey-allan/rl)
 
 ### Correlated Q-Learning
 
