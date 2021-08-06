@@ -13,6 +13,7 @@ I'm interested in Artificial Intelligence, especially Reinforcement Learning, an
   - [CommaAI Speed Challenge](#commaai-speed-challenge)
   - [Smash GAN](#smash-gan)
 - Deep Reinforcement Learning
+  - [Implementations of Deep Reinforcement Learning Algorithms](#implementations-of-deep-reinforcement-learning-algorithms)
   - [Solving the Lunar Lander Problem using Deep Reinforcement Learning](#solving-the-lunar-lander-problem-using-deep-reinforcement-learning)
 - Reinforcement Learning
   - [Implementations of Reinforcement Learning Algorithms](#implementations-of-reinforcement-learning-algorithms)
@@ -106,6 +107,33 @@ In this project, I implemented Deep Convolutional Generative Adversarial Network
 #### Learn More
 
 - [Code](https://github.com/rey-allan/smash-gan)
+
+### Implementations of Deep Reinforcement Learning Algorithms
+
+These are implementations of different Deep Reinforcement Learning algorithms in PyTorch, as suggested by OpenAI's [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/index.html). Below is a list of the algorithms implemented:
+
+- Vanilla Policy Gradients
+- Deep-Q Networks
+- Advantage Actor-Critic
+- Proximal Policy Optimization
+- Deep Deterministic Policy Gradients
+
+Agents were trained using each algorithm to solve two classic control Gym environments: `CartpPole-v1` and `Pendulum-v0`. The first one was used with all algorithms except DDPG, which was trained against the second environment. The reason is that DDPG can only be used for continuous action spaces.
+
+The following figure shows a trained DQN agent solving the CartPole environment, and a DDPG agent solving the Pendulum one.
+
+<p align="center">
+  <img src="img/dqn-CartPole-v1.gif" width="49%" />
+  <img src="img/ddpg-Pendulum-v0.gif" width="49%" />
+</p>
+
+![](https://img.shields.io/badge/Deep%20Reinforcement%20Learning-grey)
+![](https://img.shields.io/badge/PyTorch-grey)
+![](https://img.shields.io/badge/Python-grey)
+
+#### Learn More
+
+- [Code](https://github.com/rey-allan/deep-rl)
 
 ### Solving the Lunar Lander Problem using Deep Reinforcement Learning
 
