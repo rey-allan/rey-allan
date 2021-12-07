@@ -409,7 +409,7 @@ In this research project, I studied two of the most common clustering algorithms
   <img width="24%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" />
   <img width="24%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
   <img width="24%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
-  <img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" />
+  <img width="24%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" />
 </p>
 
 ## :mailbox_with_mail: Want to collaborate? Let's get in touch!
