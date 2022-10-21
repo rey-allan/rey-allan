@@ -15,6 +15,7 @@ I'm interested in Artificial Intelligence, especially Reinforcement Learning, an
 - Deep Reinforcement Learning
   - [Implementations of Deep Reinforcement Learning Algorithms](#implementations-of-deep-reinforcement-learning-algorithms)
   - [Solving the Lunar Lander Problem using Deep Reinforcement Learning](#solving-the-lunar-lander-problem-using-deep-reinforcement-learning)
+  - [Chimpanzee Theory of Mind Experiment as RL Problem](#chimpanzee-theory-of-mind-experiment-as-rl-problem)
 - Reinforcement Learning
   - [Implementations of Reinforcement Learning Algorithms](#implementations-of-reinforcement-learning-algorithms)
   - [Correlated Q-Learning](#correlated-q-learning)
@@ -154,6 +155,26 @@ In this project, I solved OpenAI's [Lunar Lander](https://gym.openai.com/envs/Lu
 - Code available on request only
 - [Paper](https://drive.google.com/file/d/17b1jgs4LEGsztsRN8qJDjRJNhRFh-2wG/view?usp=sharing)
 - [Video presentation](https://youtu.be/fX3W_SKnuMM)
+
+### Chimpanzee Theory of Mind Experiment as RL Problem
+
+In this project I recreated the [Theory of Mind experiment](https://www.researchgate.net/publication/48182381_Chimpanzee_Social_Cognition), done on chimpanzees in 2001 by Joseph Call, as an RL environment. And I investigated whether an RL agent could learn to behave like the subordinate chimpanzee in the experiment. The agent was able to learn how to read the movement of the other subject and make optimal decisions.
+
+The following figure shows the agent (blue) acting optimally in the two experiment settings.
+
+<p align="center">
+  <img src="img/chimpainzee_demo_barrier.gif" width="49%" />
+  <img src="img/chimpainzee_demo_no_barrier.gif" width="49%" />
+</p>
+
+![](https://img.shields.io/badge/Deep%20Reinforcement%20Learning-grey)
+![](https://img.shields.io/badge/PPO-grey)
+![](https://img.shields.io/badge/PyTorch-grey)
+![](https://img.shields.io/badge/Python-grey)
+
+#### Learn More
+
+- [Code](https://github.com/rey-allan/chimp-ai-nzee)
 
 ### Implementations of Reinforcement Learning Algorithms
 
