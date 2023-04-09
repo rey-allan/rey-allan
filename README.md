@@ -1,6 +1,6 @@
 Hola :wave:
 
-I am Machine Learning Engineer, originally from Mexico :mexico:, based in Seattle, WA. I have a B.S. in Computer Science by Tecnologico de Monterrey, and a M.S. in Computer Science with a Specialization in Machine Learning by Georgia Institute of Technology. I currently work as a Machine Learning Engineer at Amazon.
+I am Machine Learning Engineer, originally from Mexico :mexico:, based in Seattle, WA. I have a B.S. in Computer Science by Tecnologico de Monterrey, and a M.S. in Computer Science with a Specialization in Machine Learning by Georgia Institute of Technology. I currently work as a Senior Machine Learning Engineer at Amazon.
 
 I'm interested in Artificial Intelligence, especially Reinforcement Learning, and Robotics. I'm particularly interested in how AI can adopt complex social behaviors that adhere to human preferences, and how these agents can be deployed to improve our lives. I envision a world where humans and intelligent agents (embodied, i.e. robots, and non-embodied) cooperate to solve the world's most pressing problems.
 
