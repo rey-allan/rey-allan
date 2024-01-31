@@ -447,6 +447,6 @@ In this research project, I studied two of the most common clustering algorithms
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="mailto:allan_bassail@hotmail.com">
-  <img src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+<a href="mailto:allan.rexo@gmail.com">
+  <img src="https://img.shields.io/badge/email-%23C71610.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
