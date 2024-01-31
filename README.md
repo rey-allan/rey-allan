@@ -8,6 +8,8 @@ I'm interested in Artificial Intelligence, especially Reinforcement Learning, an
 
 ### Index
 
+- Generative AI
+  - [Lee AI](#lee-ai)
 - Deep Learning
   - [Deep Learning Mini Projects](#deep-learning-mini-projects)
   - [CommaAI Speed Challenge](#commaai-speed-challenge)
@@ -32,6 +34,30 @@ I'm interested in Artificial Intelligence, especially Reinforcement Learning, an
   - [A Study On Clustering and Dimensionality Reduction](#a-study-on-clustering-and-dimensionality-reduction)
 - Knowledge-based AI
   - [Solving Ravens Progressive Matrices](#solving-ravens-progressive-matrices)
+
+### Lee AI
+
+Lee is an AI-powered cartoon version of my wife Ash that interacts with her and her audience on Twitch and YouTube, acting as a co-host for her streams. The bot is comprised of three main components, all leveraging the latest technologies:
+
+- Speech-to-text: Allows Lee to listen to Ash's voice when she talks to her.
+- Text Generation: Allows Lee to respond to Ash's and her audience comments by using a Large Language Model to generate responses.
+- Text-to-speech: Allows Lee to talk back to Ash and her audience with her own unique voice.
+
+Lee has captivated audiences during streams, and is even now playing games along with Ash!
+
+This project allowed me to learn more about Generative AI and associated technologies, and how to build a production-grade system around them.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=QrNF2mpT-fo"><img src="https://img.youtube.com/vi/QrNF2mpT-fo/0.jpg" /></a>
+</p>
+
+![](https://img.shields.io/badge/Generative%20AI-grey)
+![](https://img.shields.io/badge/Large%20Language%20Models-grey)
+![](https://img.shields.io/badge/GPT%204-grey)
+
+#### Learn More
+
+- [Official Website](https://restashu.red/lee)
 
 ### Deep Learning Mini Projects
 
