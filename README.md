@@ -68,9 +68,10 @@ With this chatbot I can ask questions about DM'ing, D&D and role-playing in gene
 
 The chatbot was built using:
 
-- Gradio, for the UI
-- LangChain, for the backend
-- Anthropic's Claude Haiku (via Amazon Bedrock), for the LLM
+- Gradio for the UI
+- LangChain for the backend
+- Anthropic's Claude Haiku (via Amazon Bedrock) for the LLM
+- Meta's FAISS for the embeddings store
 
 <p align="center">
   <img src="img/aguefort.png" />
