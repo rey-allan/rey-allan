@@ -10,6 +10,7 @@ I'm interested in Artificial Intelligence, especially Reinforcement Learning, an
 
 - Generative AI
   - [Lee AI](#lee-ai)
+  - [Aguefort](#aguefort)
 - Deep Learning
   - [Deep Learning Mini Projects](#deep-learning-mini-projects)
   - [CommaAI Speed Challenge](#commaai-speed-challenge)
@@ -58,6 +59,31 @@ This project allowed me to learn more about Generative AI and associated technol
 #### Learn More
 
 - [Official Website](https://restashu.red/lee)
+
+### Aguefort
+
+Aguefort is a chatbot that uses the power of LLM's combined with all the knowledge from Dropout's Adventuring Academy episodes (a podcast where the host and his guests talk about all things TTRPG).
+
+With this chatbot I can ask questions about DM'ing, D&D and role-playing in general, and get answers based on everything that has been discussed in the episodes!
+
+The chatbot was built using:
+
+- Gradio, for the UI
+- LangChain, for the backend
+- Anthropic's Claude Haiku (via Amazon Bedrock), for the LLM
+
+<p align="center">
+  <img src="img/aguefort.png" />
+</p>
+
+![](https://img.shields.io/badge/Generative%20AI-grey)
+![](https://img.shields.io/badge/LangChain-grey)
+![](https://img.shields.io/badge/Large%20Language%20Models-grey)
+![](https://img.shields.io/badge/Claude%20Haiku-grey)
+
+#### Learn More
+
+- [Code](https://github.com/rey-allan/aguefort)
 
 ### Deep Learning Mini Projects
 
